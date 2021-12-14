@@ -26,7 +26,7 @@ Norm_of_matrix = "{:.2f}".format(ans)
 print(Norm_of_matrix)
 
 ```
-## Sample Input and Output:
+## Output:
 ![norm1](./input.jpg)
 
 ## Result
